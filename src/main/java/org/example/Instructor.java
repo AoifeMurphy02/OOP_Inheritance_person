@@ -1,5 +1,6 @@
 package org.example;
 
+//inherent from person super class
 public class Instructor extends Person{
 
     private double salary;

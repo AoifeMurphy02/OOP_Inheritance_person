@@ -1,5 +1,6 @@
 package org.example;
 
+//inherent from person super class
 public class Student extends Person {
     private String major;
 
